@@ -1,76 +1,86 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sayfullo077.sayfullo077" />
+<!-- Visitor Badge -->
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sayfullo077.sayfullo077" />
+</p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sayfullo+Mamatkulov!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Sayfulloh+Mamatkulov;Backend+Developer+%7C+Python+%7C+Aiogram+%7C+Django">
 </h1>
 
-<h3 align="center">A passionate software developer from Uzbekistan 🇺🇿</h3>
+<h3 align="center">A backend-focused developer passionate about building scalable Telegram bots and APIs.</h3>
 
-<br/>
+---
 
-<div align="center">
- 
- 🔭 I’m currently working on **a freelance-service**
- 
- 🌱 I’m currently learning **AI & ML, Data Science, DevOps**
+## 🔎 About Me
 
-💬 Ask me about **Python, Aiogram3, DRF... or anything [Telegram](https://t.me/Sayfulloh_Mamatqulov)**
+```yaml
+Name: Sayfulloh Mamatkulov
+From: Uzbekistan 🇺🇿
+Role: Backend Developer | Python Enthusiast
+Experience: ~1.5 years (freelance + personal projects)
+Goal: Become a high-impact engineer in an international team
+```
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+- 🔭 Currently working on: **Smart Telegram CRM Bot** for small businesses  
+- 🌱 Learning: **AI/ML, DevOps, Data Science**  
+- 🤝 Open to: **Remote work, freelance, and collaboration opportunities**  
+- 🧠 Always curious: Love solving real-world problems with clean backend architecture  
+- 💬 Ask me about: **Django REST API, Aiogram 3.x, PostgreSQL, Linux servers, Telegram integrations**  
+- ☕ Fun fact: *Game of Thrones Night's Watch cloaks were made from IKEA rugs*
 
- </div>
- 
-<div align="center"> 
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,sqlite,git,github,linux,vscode,html,css,bootstrap" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aiogram,nginx,heroku,figma" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Smart CRM Telegram Bot](https://github.com/sayfullo077/smart-crm-bot) | Telegram-based CRM for small businesses. Owners can manage products, orders, and payments via bot. | Django, DRF, Aiogram3 |
+| [Payment Gateway Integration](https://github.com/sayfullo077/payments-framework) | Framework to integrate Payme & Click into Telegram bots. Merchants use their own credentials. | Django, FastAPI |
+| [Restaurant Feedback AI Bot](https://github.com/sayfullo077/restaurant-bot-v2) | A Telegram bot that suggests dishes based on user feedback and preferences using AI. | Aiogram3, OpenAI, DRF |
+
+> 💡 Want to see more? Check out [my portfolio](https://salesp07.github.io)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width=390 src="https://streak-stats.demolab.com?user=sayfullo077&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sayfullo077&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="mailto:sayfulloh.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/sayfullo-mamatqulov-5bb26a247/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/sayfullo-mamatqulov-5bb26a247/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://t.me/Sayfulloh_Mamatqulov">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</div>
+  <a href="https://salesp07.github.io">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,postgresql,aiogram,django,flask" /><br>
-</div>
+---
 
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sayfullo077/sayfullo077/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sayfullo077&theme=dark&date_format=j%20M%5B%20Y%5D" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://streak-stats.demolab.com/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
+<p align="center">
+  <em>"Discipline beats talent when talent doesn’t work hard." — Sayfulloh</em>
+</p>

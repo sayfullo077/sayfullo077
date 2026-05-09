@@ -17,7 +17,7 @@
 Name: Sayfulloh Mamatkulov
 From: Uzbekistan 🇺🇿
 Role: Backend Developer | Python Enthusiast
-Experience: ~1.5 years (freelance + personal projects)
+Experience: ~ 2 years (freelance + personal projects)
 Goal: Become a high-impact engineer in an international team
 ```
 
@@ -26,7 +26,6 @@ Goal: Become a high-impact engineer in an international team
 - 🤝 Open to: **Remote work, freelance, and collaboration opportunities**  
 - 🧠 Always curious: Love solving real-world problems with clean backend architecture  
 - 💬 Ask me about: **Django REST API, Aiogram 3.x, PostgreSQL, Linux servers, Telegram integrations**  
-- ☕ Fun fact: *Game of Thrones Night's Watch cloaks were made from IKEA rugs*
 
 ---
 
